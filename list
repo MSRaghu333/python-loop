@@ -1,9 +1,15 @@
+print("for List1")
 List1=[12,-7,5,64,-14]
+print("list1 is", List1)
+print("positive numbers in the list1 are:")
 for n in List1:
     if n>0:
         print(n)
 
+print("for List2")
 List2=[12,14,-95,3]
+print("list2 is", List2)
+print("positive numbers in the list2 are:")
 for n in List2:
     if n>0:
         print(n)
